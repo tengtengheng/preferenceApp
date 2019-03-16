@@ -11,6 +11,7 @@
 		8265301B223C852F00E72656 /* preferencepanel.m in Sources */ = {isa = PBXBuildFile; fileRef = 8265301A223C852F00E72656 /* preferencepanel.m */; };
 		8265301D223C852F00E72656 /* preferencepanel.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 8265301C223C852F00E72656 /* preferencepanel.tiff */; };
 		82653020223C852F00E72656 /* preferencepanel.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8265301E223C852F00E72656 /* preferencepanel.xib */; };
+		82653028223C903100E72656 /* 屏幕快照 2019-02-26 下午6.34.02.png in Resources */ = {isa = PBXBuildFile; fileRef = 82653027223C903100E72656 /* 屏幕快照 2019-02-26 下午6.34.02.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		8265301C223C852F00E72656 /* preferencepanel.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = preferencepanel.tiff; sourceTree = "<group>"; };
 		8265301F223C852F00E72656 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/preferencepanel.xib; sourceTree = "<group>"; };
 		82653021223C852F00E72656 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		82653027223C903100E72656 /* 屏幕快照 2019-02-26 下午6.34.02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "屏幕快照 2019-02-26 下午6.34.02.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				82653018223C852F00E72656 /* preferencepanel.h */,
 				8265301A223C852F00E72656 /* preferencepanel.m */,
+				82653027223C903100E72656 /* 屏幕快照 2019-02-26 下午6.34.02.png */,
 				8265301C223C852F00E72656 /* preferencepanel.tiff */,
 				8265301E223C852F00E72656 /* preferencepanel.xib */,
 				82653021223C852F00E72656 /* Info.plist */,
@@ -131,6 +134,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8265301D223C852F00E72656 /* preferencepanel.tiff in Resources */,
+				82653028223C903100E72656 /* 屏幕快照 2019-02-26 下午6.34.02.png in Resources */,
 				82653020223C852F00E72656 /* preferencepanel.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
